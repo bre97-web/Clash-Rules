@@ -1,0 +1,36 @@
+#pornhub.com p站
+DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,pornhub.com
+
+#duckduckgo
+DOMAIN-SUFFIX,duckduckgo.com
+
+#aptoide应用商店
+DOMAIN-SUFFIX,aptoide.com
+
+#mega.nz 网盘
+DOMAIN-SUFFIX,mega.nz
+DOMAIN-SUFFIX,mega.co.nz
+
+#vimeo
+DOMAIN-SUFFIX,vimeo.com
+
+#apkcombo
+DOMAIN-SUFFIX,apkcombo.com
+DOMAIN-SUFFIX,androidcombo.com
+DOMAIN-SUFFIX,apkflash.net
+
+#others
+DOMAIN-SUFFIX,bbc.com
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-KEYWORD,twitch
+DOMAIN-SUFFIX,nytimes.com
+DOMAIN-KEYWORD,pixiv
+DOMAIN-SUFFIX,dropbox.com
+DOMAIN-SUFFIX,pinterest.com
+DOMAIN-SUFFIX,archive.org
+DOMAIN-KEYWORD,github
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-KEYWORD,wiki
+DOMAIN-SUFFIX,wikipedia.org
